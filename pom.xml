@@ -906,7 +906,7 @@ But it might be needed for Java 10, because I get this error, that I don't get w
 			<groupId>org.jfree</groupId>
 			<artifactId>jfreechart</artifactId>
 			<!-- <version>1.5.1</version> This is latest version, but requires Java 8. 1.5.0 is last version to support Java 7. -->
-			<version>1.5.0</version>
+			<version>1.5.3</version>
 		</dependency>
 
 		<dependency>
