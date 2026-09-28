@@ -1215,7 +1215,7 @@ But it might be needed for Java 10, because I get this error, that I don't get w
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<maven.war.webxml>${basedir}/src/config/web.xml</maven.war.webxml>
 		<runenv>local</runenv>
-		<version.apacheds>2.0.0.AM26</version.apacheds>
+		<version.apacheds>2.0.0.AM27</version.apacheds>
 		<version.apache-shared-ldap>0.9.19</version.apache-shared-ldap>
 		<version.exec.maven>1.6.0</version.exec.maven>
 		<version.hibernate>3.6.10.Final</version.hibernate>
