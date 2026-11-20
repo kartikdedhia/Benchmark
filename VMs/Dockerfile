@@ -1,5 +1,5 @@
 # This dockerfile builds a container that pulls down and runs the latest version of Benchmark
-FROM ubuntu:latest
+FROM ubuntu:stonking-20261105.1
 MAINTAINER "Dave Wichers dave.wichers@owasp.org"
 
 RUN apt-get update
